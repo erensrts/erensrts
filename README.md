@@ -12,7 +12,7 @@
 🌱 What I’m Working On
 
     Building my portfolio by uploading university projects to GitHub
-    Focusing on Python and embedded systems
+    Focusing on C, Python and embedded systems
     Working on freelance projects and remote work opportunities
 📈 My Goals
 
